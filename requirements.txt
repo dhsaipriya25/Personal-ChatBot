@@ -1,0 +1,6 @@
+anthropic
+flask
+python-dotenv
+python-docx
+python-pptx
+openpyxl
